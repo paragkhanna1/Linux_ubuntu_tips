@@ -67,3 +67,5 @@ Python 3.8.13 (4b1398fe9d76ad762155d03684c2a153d230b2ef, Mar 29 2022, 07:08:24)
 [PyPy 7.3.9 with GCC 10.2.1 20210130 (Red Hat 10.2.1-11)] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 ```
+
+> Remember, any new packages will be installed in 'pypy3.8-v7.3.9-linux64/lib/pypy3.8/site-packages/'
