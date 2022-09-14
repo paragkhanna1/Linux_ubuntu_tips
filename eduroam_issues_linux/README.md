@@ -22,6 +22,8 @@ You can try without it : Select 'No CA certificate is required' (Did not work fo
 Better way:
 
 Select this cerificate file from the /home/.config/cat_installer
-[You might need to do CTRl+H for displaying hidden folders in your home directory ]
+
+>[You might need to do CTRl+H for displaying hidden folders in your home directory ]
+
 The file was called ca.pem for above installer. (.pem, .crt .cer .der files)
 cat_installer installs this file at above location
